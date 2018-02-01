@@ -1,0 +1,22 @@
+table {border-collapse: collapse;}
+table td {padding: 0px}
+.line-separator{
+height:1px;
+background:#f54775;
+border-bottom:1px solid #313030;
+}
+
+div.box {
+	border: solid 50px MidnightBlue;
+	background-color: Cornsilk;
+	float:left;
+	padding: 4px;
+	position: absolute;
+	width: 100%;
+	margin: 4px 4px 0px 4px;
+	box-sizing: border-box;
+}
+.container {
+        width:50%;
+        height:200px;
+}
